@@ -1,0 +1,12 @@
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\bin\Debug\Frozen Goods POS System.exe.config
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\bin\Debug\Frozen Goods POS System.exe
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\bin\Debug\Frozen Goods POS System.pdb
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen Goods POS System.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen_Goods_POS_System.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen Goods POS System.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen Goods POS System.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen Goods POS System.exe
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen Goods POS System.pdb
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen_Goods_POS_System.main_POS.resources
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen_Goods_POS_System.Login.resources
+C:\Users\Joshua\source\repos\Frozen Goods POS System\Frozen Goods POS System\obj\Debug\Frozen_Goods_POS_System.LoadingScreen.resources
